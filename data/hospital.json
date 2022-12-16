@@ -1,0 +1,26 @@
+[
+    {
+        "hospitalId": "01",
+        "hospitalName": "Apollo Hospital",
+        "patientCount": "1000",
+        "hospitalLocation": "Chennai"
+    },
+    {
+        "hospitalId": "02",
+        "hospitalName": "Adithya Hospital",
+        "patientCount": "600",
+        "hospitalLocation": "Chennai"
+    },
+    {
+        "hospitalId": "03",
+        "hospitalName": "BRS Hospital",
+        "patientCount": "500",
+        "hospitalLocation": "Chennai"
+    },
+    {
+        "hospitalId": "04",
+        "hospitalName": "Sen Hospital",
+        "patientCount": "400",
+        "hospitalLocation": "Chennai"
+    }
+]
